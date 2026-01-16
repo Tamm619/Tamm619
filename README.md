@@ -1,25 +1,13 @@
 ## 👋 Olá, bem-vindo ao meu GitHub!
 
-Sou o **Mateus**,  
-estudante de **Full-Stack Java** ☕💻
+Sou o **Mateus** 👨‍💻  
+Estudante de **Full-Stack Java** ☕💻
 
 ---
 
-## 📊 Detalhes
+## 📌 Visão geral
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tamm619&show_icons=true&theme=dark&hide_border=true)
-
----
-
-## 🚀 Projeto em destaque
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamm619&repo=dyinglight-frontend.github.io&theme=dark&hide_border=true)
-
----
-
-## 🧠 Linguagens mais utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamm619&layout=compact&theme=dark&hide_border=true)
+![Metrics](./assets/metrics.svg)
 
 ---
 
