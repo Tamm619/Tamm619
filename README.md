@@ -25,13 +25,13 @@ Desenvolvedor **Full-Stack Java** em formação, com maior afinidade em **Front-
 
 ## 🚀 Projeto em destaque
 
-> 🧟 **Dying Light Frontend (Fan Site)**  
-> Site informativo inspirado no jogo **Dying Light**, desenvolvido como projeto prático de front-end, com foco em estrutura semântica, organização de estilos e experiência do usuário.  
->  
-> **Tecnologias:** HTML, CSS, SCSS e JavaScript  
->  
-> [![Repositório](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tamm619/dyinglight-frontend)
-> [![Deploy](https://img.shields.io/badge/Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dyinglight-frontend.vercel.app)
+ 🧟 **Dying Light Frontend (Fan Site)**  
+ Site informativo inspirado no jogo **Dying Light**, desenvolvido como projeto prático de front-end, com foco em estrutura semântica, organização de estilos e experiência do usuário.  
+  
+ **Tecnologias:** HTML, CSS, SCSS e JavaScript  
+ 
+ [![Repositório](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tamm619/dyinglight-frontend)
+ [![Deploy](https://img.shields.io/badge/Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dyinglight-frontend.vercel.app)
 
 
 ---
