@@ -1,21 +1,21 @@
-### Olá 👋
+## Bem vindo ao meu GitHub.
 
-##### Sobre o Mateus
-Estudante de Full-Stack Java
+## Sobre o Mateus
+Estudante de Full-Stack Java.
 
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamm619&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tamm619&show_icons=true&theme=dark&cache_seconds=86400)
 
-### Projetos
+### Principal Projeto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamm619&repo=dyinglight-frontend.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamm619&repo=dyinglight-frontend.github.io&theme=dark)
 
 
-### Linguagens utilizadas
+### Linguagens Utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamm619&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamm619&layout=compact&theme=dark)
 
 ### Contatos
 
