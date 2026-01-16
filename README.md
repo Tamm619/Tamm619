@@ -1,7 +1,7 @@
-## Mateus Gonçalves | **Dev** em Formação
+## Mateus Gonçalves | **Dev** em formação
 
-Desenvolvedor em formação **Full-Stack Java**, com maior afinidade em **Front-end**, utilizando HTML, CSS, SASS e JavaScript em projetos práticos e organizados. Com conhecimento base em **Java**, aplicado em projetos e estudos.
-Atualmente iniciando estudos e pesquisas em **React**
+Desenvolvedor **Full-Stack Java** em formação, com maior afinidade em **Front-end**, utilizando HTML, CSS, SCSS/SASS e JavaScript em projetos práticos e organizados. Possuo **base em Java**, aplicada em projetos e estudos. Atualmente, estou iniciando estudos e pesquisas em **React**.
+
 
 ---
 
