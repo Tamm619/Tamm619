@@ -1,7 +1,7 @@
-## 👋 Olá, bem-vindo ao meu GitHub!
+## Mateus Gonçalves | **Dev** em Formação
 
-Sou o **Mateus** 👨‍💻  
-Estudante de **Full-Stack Java** ☕💻
+Desenvolvedor em formação **Full-Stack Java**, com maior afinidade em **Front-end**, utilizando HTML, CSS, SASS e JavaScript em projetos práticos e organizados. Com conhecimento base em **Java**, aplicado em projetos e estudos.
+Atualmente iniciando estudos e pesquisas em **React**
 
 ---
 
@@ -20,7 +20,7 @@ Estudante de **Full-Stack Java** ☕💻
 
 ### 🧟 Dying Light Frontend (Fan Site)
 
-Site informativo inspirado no jogo **Dying Light**, desenvolvido com foco em **estrutura semântica**, **organização de conteúdo** e **experiência do usuário**.
+Site informativo inspirado no jogo **Dying Light**, desenvolvido como projeto prático de front-end, com foco em estrutura semântica, organização de estilos e experiência do usuário.
 
 **Tecnologias:** HTML, CSS, SASS e JavaScript
 
